@@ -30,17 +30,17 @@ Format: ![Alt Text](url)
 * ETL Pipeline Preparation.ipynb: Description for workspace/data/process_data.py
 * ML Pipeline Preparation.ipynb: Description for workspace/model/train_classifier.py
 * workspace/data/process_data.py: A data cleaning pipeline that:
-- [x] Loads the messages and categories datasets
-- [x] Merges the two datasets
-- [x] Cleans the data
-- [x] Stores it in a SQLite database
+  * Loads the messages and categories datasets
+  * Merges the two datasets
+  * Cleans the data
+  * Stores it in a SQLite database
 * workspace/model/train_classifier.py: A machine learning pipeline that:
-- [x] Loads data from the SQLite database
-- [x] Splits the dataset into training and test sets
-- [x] Builds a text processing and machine learning pipeline
-- [x] Trains and tunes a model using GridSearchCV
-- [x] Outputs results on the test set
-- [x] Exports the final model as a pickle file
+  * Loads data from the SQLite database
+  * Splits the dataset into training and test sets
+  * Builds a text processing and machine learning pipeline
+  * Trains and tunes a model using GridSearchCV
+  * Outputs results on the test set
+  * Exports the final model as a pickle file
 
 
 ## Acknowledgements
