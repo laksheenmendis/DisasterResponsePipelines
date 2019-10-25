@@ -19,11 +19,9 @@ Further, this project includes a very basic web app, where an emergency worker c
 
 Below are a few screenshots of the web app.
 
-![Web App Index Page](/images/a.png)
-Format: ![Alt Text](url)
+![Index Page](/images/a.png)
 
-![Web App Message Classification](/images/b.png)
-Format: ![Alt Text](url)
+![Message Classification](/images/b.png)
 
 ## Files
 
